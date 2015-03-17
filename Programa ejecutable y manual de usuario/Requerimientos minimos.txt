@@ -1,0 +1,6 @@
+Requerimientos minimos de funcionamiento:
+*Sistema Operativo: windows
+*Tener instalado net framework 4 o superior
+
+En caso de no poseer la version de net puede descargarla aqui:
+http://www.microsoft.com/es-ar/download/details.aspx?id=17851
